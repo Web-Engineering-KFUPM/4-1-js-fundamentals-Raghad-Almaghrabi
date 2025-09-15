@@ -170,7 +170,7 @@ console.log("cube(3) =", cube(3));
 }
 console.log("a (declared with var) outside block:", a);
 console.log("b (declared with let) outside block:", b); // the variable appearntly is not being used in this line of code
-
+// this is unused
 // ==================
 // TODO-8: ARRAYS (CORE)
 // ==================
