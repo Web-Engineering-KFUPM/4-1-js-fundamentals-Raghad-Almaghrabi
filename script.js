@@ -155,7 +155,7 @@ console.log("add(2,5) =", add(2, 5));
 const cube = n => n * n * n;
 console.log("cube(3) =", cube(3));
 
-// =================================
+// ================================
 // TODO-7: SCOPE & GLOBAL OBJECT (ESSENTIALS)
 // =================================
 
